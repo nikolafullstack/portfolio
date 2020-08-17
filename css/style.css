@@ -7,3 +7,7 @@
 .line-height-1 {
   line-height: 1 !important;
 }
+
+.modal .modal-header .close {
+  font-size: 1.2rem;
+}

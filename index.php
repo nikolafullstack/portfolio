@@ -65,7 +65,7 @@
                      <li class="list-inline-item"> <a href="https://angel.co/u/nikola-todoroski" target="_blank"> <i class="fab fa-angellist"></i> </a></li>
                      <li class="list-inline-item"> <a href="https://github.com/smartweber" target="_blank"> <i class="fab fa-github"></i> </a></li>
                   </ul>
-                  <span class="copyright"> © 2020 Nikola Todorovski</span>
+                  <span class="copyright"> © 2012 - 2020 Nikola Todorovski.</span>
                </div>
             </div>
          </header>
@@ -646,7 +646,7 @@
                                                 <div class="entry">
                                                    <div class="title"> <span>2014 - 2016</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Web Developer</h4>
+                                                      <h4 class="mt-0">Full Stack Web Developer</h4>
                                                       <p>With team memebers, I designed and implemented e-commerce website.</p>
                                                    </div>
                                                 </div>
@@ -700,24 +700,7 @@
                                              </div>
                                              <div class="row portfolio-wrapper">
                                                 <div class="col-md-4 col-sm-6 grid-item backend frontend">
-                                                   <a href="#">
-                                                      <div class="portfolio-item">
-                                                         <div class="details">
-                                                            <h4 class="title">E-Commerce Website</h4>
-                                                            <span class="term">Node.js</span>
-                                                            <span class="term">React</span>
-                                                         </div>
-                                                         <span class="plus-icon">+</span>
-                                                         <div class="thumb">
-                                                            <noscript><img width="420" height="315" src="image/portfolio/portfolio-1.jpg" class="attachment-425x315 size-425x315 wp-post-image" sizes="(max-width: 420px) 100vw, 420px" /></noscript>
-                                                            <img width="420" height="315" src="image/portfolio/portfolio-1.jpg" class="attachment-425x315 size-425x315 wp-post-image ls-is-cached lazyloaded" data-sizes="(max-width: 420px) 100vw, 420px" sizes="(max-width: 420px) 100vw, 420px">
-                                                            <div class="mask"></div>
-                                                         </div>
-                                                      </div>
-                                                   </a>
-                                                </div>
-                                                <div class="col-md-4 col-sm-6 grid-item backend frontend">
-                                                   <a href="#">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_2">
                                                       <div class="portfolio-item">
                                                          <div class="details">
                                                             <h4 class="title">E-Commerce Website</h4>
@@ -733,8 +716,25 @@
                                                       </div>
                                                    </a>
                                                 </div>
+                                                <div class="col-md-4 col-sm-6 grid-item backend frontend">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_1">
+                                                      <div class="portfolio-item">
+                                                         <div class="details">
+                                                            <h4 class="title">E-Commerce Website</h4>
+                                                            <span class="term">Node.js</span>
+                                                            <span class="term">React</span>
+                                                         </div>
+                                                         <span class="plus-icon">+</span>
+                                                         <div class="thumb">
+                                                            <noscript><img width="420" height="315" src="image/portfolio/portfolio-1.jpg" class="attachment-425x315 size-425x315 wp-post-image" sizes="(max-width: 420px) 100vw, 420px" /></noscript>
+                                                            <img width="420" height="315" src="image/portfolio/portfolio-1.jpg" class="attachment-425x315 size-425x315 wp-post-image ls-is-cached lazyloaded" data-sizes="(max-width: 420px) 100vw, 420px" sizes="(max-width: 420px) 100vw, 420px">
+                                                            <div class="mask"></div>
+                                                         </div>
+                                                      </div>
+                                                   </a>
+                                                </div>
                                                 <div class="col-md-4 col-sm-6 grid-item frontend">
-                                                   <a href="#">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_3">
                                                       <div class="portfolio-item">
                                                          <div class="details">
                                                             <h4 class="title">Booking Website</h4>
@@ -847,17 +847,6 @@
                                                 <div class="elementor-element elementor-element-3f4ccb2 elementor-column elementor-col-33 elementor-inner-column" data-id="3f4ccb2" data-element_type="column">
                                                    <div class="elementor-column-wrap  elementor-element-populated">
                                                       <div class="elementor-widget-wrap">
-                                                         <div class="elementor-element elementor-element-fca804d elementor-widget elementor-widget-bako-contact" data-id="fca804d" data-element_type="widget" data-widget_type="bako-contact.default">
-                                                            <div class="elementor-widget-container">
-                                                               <div class="contact-info">
-                                                                  <i class="icon-phone"></i>
-                                                                  <div class="details">
-                                                                     <h5>Phone</h5>
-                                                                     <span>+1 760 392-2334</span>
-                                                                  </div>
-                                                               </div>
-                                                            </div>
-                                                         </div>
                                                          <div class="elementor-element elementor-element-c5713f0 elementor-widget elementor-widget-spacer" data-id="c5713f0" data-element_type="widget" data-widget_type="spacer.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="elementor-spacer">
@@ -912,7 +901,7 @@
                                                                <div class="elementor-shortcode">
                                                                   <div role="form" class="wpcf7" id="wpcf7-f82-p8-o1" lang="en-US" dir="ltr">
                                                                      <div class="screen-reader-response"></div>
-                                                                     <form action="/wp/bako/#wpcf7-f82-p8-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                                                     <form method="post" class="wpcf7-form" novalidate="novalidate">
                                                                         <div style="display: none;"> <input type="hidden" name="_wpcf7" value="82"> <input type="hidden" name="_wpcf7_version" value="5.1.6"> <input type="hidden" name="_wpcf7_locale" value="en_US"> <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f82-p8-o1"> <input type="hidden" name="_wpcf7_container_post" value="8"></div>
                                                                         <div class="row">
                                                                            <div class="column col-md-6">
@@ -937,7 +926,7 @@
                                                                            </div>
                                                                            <p></p>
                                                                         </div>
-                                                                        <p><button type="submit" name="submit" id="submit" value="Submit" class="wpcf7-submit btn btn-default">Submit Message</button><span class="ajax-loader"></span></p>
+                                                                        <p><button type="submit" name="submit" value="Submit" class="wpcf7-submit1 btn btn-default">Submit Message</button><span class="ajax-loader"></span></p>
                                                                         <div class="wpcf7-response-output wpcf7-display-none"></div>
                                                                      </form>
                                                                   </div>
@@ -960,6 +949,55 @@
                </div>
             </div>
          </main>
+         <!-- Modal -->
+         <div class="modal fade" id="portfolio_1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">E-Commerce Website</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-1.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>Node.js, Express, MySQL, React, Redux, Html5, CSS3, Javascript</div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div class="modal fade" id="portfolio_2" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">E-Commerce Website</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-2.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>Ruby, Ruby on rails, PostgreSQL, React, Redux, Html5, CSS3, Javascript</div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div class="modal fade" id="portfolio_3" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">Booking Website</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-3.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>Angular, Typescript, Material UI, Html5, CSS3, Javascript, SCSS</div>
+               </div>
+            </div>
+            </div>
+         </div>
       </div>
       <a href="javascript:" id="return-to-top" style="display: block;"><i class="fa fa-chevron-up"></i></a> 
       <noscript>
@@ -967,7 +1005,7 @@
       </noscript>
       <script data-noptimize="1">window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;</script>
       <script async="" data-noptimize="1" src="js/lazysizes.min.js"></script>
-      <script type="text/javascript">var wpcf7 = {"apiSettings":{"root":"https:\/\/pxltheme.com\/wp\/bako\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};</script>
+      <!-- <script type="text/javascript">var wpcf7 = {"apiSettings":{"root":"https:\/\/pxltheme.com\/wp\/bako\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};</script> -->
       <script type="text/javascript">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.8.5","urls":{"assets":"https:\/\/pxltheme.com\/wp\/bako\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes"},"editorPreferences":[]},"post":{"id":8,"title":"Home Page","excerpt":""}};</script>
       <script defer="" src="js/autoptimize.js"></script>
       <span id="elementor-device-mode" class="elementor-screen-only"></span>
