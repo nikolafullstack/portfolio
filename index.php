@@ -1091,7 +1091,7 @@
                   </button>
                </div>
                <div class="modal-body">
-                  <img src="image/portfolio/portfolio-5.jpg">
+                  <img src="image/portfolio/portfolio-6.jpg">
                   <div class="mt-3"><strong>Technologies: </strong>PHP, Laravel, MySQL, Vue.js, Vuex, Html5, CSS3, SCSS, Javascript, Lodash</div>
                </div>
             </div>
