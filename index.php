@@ -88,7 +88,7 @@
                                        <div class="elementor-element elementor-element-c15fb9f elementor-widget elementor-widget-text-editor" data-id="c15fb9f" data-element_type="widget" data-widget_type="text-editor.default">
                                           <div class="elementor-widget-container">
                                              <div class="elementor-text-editor elementor-clearfix">
-                                                <p>I'm a full-stack web engineer and UX/UI enthusiast highly experienced in designing and developing websites. Looking for a remote position.</p>
+                                                <p>I'm a full-stack web engineer experienced in designing and developing websites. I am passionate about building excellent software that improves the lives of those around me.</p>
                                              </div>
                                           </div>
                                        </div>
@@ -750,6 +750,57 @@
                                                       </div>
                                                    </a>
                                                 </div>
+                                                <div class="col-md-4 col-sm-6 grid-item frontend">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_4">
+                                                      <div class="portfolio-item">
+                                                         <div class="details">
+                                                            <h4 class="title">Advertising Platform</h4>
+                                                            <span class="term">Ruby on rails</span>
+                                                            <span class="term">Javascript</span>
+                                                         </div>
+                                                         <span class="plus-icon">+</span>
+                                                         <div class="thumb">
+                                                            <noscript><img width="420" height="315" src="image/portfolio/portfolio-4.jpg" class="attachment-425x315 size-425x315 wp-post-image" sizes="(max-width: 420px) 100vw, 420px" /></noscript>
+                                                            <img width="420" height="315" src="image/portfolio/portfolio-4.jpg" class="attachment-425x315 size-425x315 wp-post-image ls-is-cached lazyloaded" data-sizes="(max-width: 420px) 100vw, 420px" sizes="(max-width: 420px) 100vw, 420px">
+                                                            <div class="mask"></div>
+                                                         </div>
+                                                      </div>
+                                                   </a>
+                                                </div>
+                                                <div class="col-md-4 col-sm-6 grid-item frontend">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_5">
+                                                      <div class="portfolio-item">
+                                                         <div class="details">
+                                                            <h4 class="title">Healthcare Website</h4>
+                                                            <span class="term">Node.js</span>
+                                                            <span class="term">React</span>
+                                                         </div>
+                                                         <span class="plus-icon">+</span>
+                                                         <div class="thumb">
+                                                            <noscript><img width="420" height="315" src="image/portfolio/portfolio-5.jpg" class="attachment-425x315 size-425x315 wp-post-image" sizes="(max-width: 420px) 100vw, 420px" /></noscript>
+                                                            <img width="420" height="315" src="image/portfolio/portfolio-5.jpg" class="attachment-425x315 size-425x315 wp-post-image ls-is-cached lazyloaded" data-sizes="(max-width: 420px) 100vw, 420px" sizes="(max-width: 420px) 100vw, 420px">
+                                                            <div class="mask"></div>
+                                                         </div>
+                                                      </div>
+                                                   </a>
+                                                </div>
+                                                <div class="col-md-4 col-sm-6 grid-item backend frontend">
+                                                   <a href="#" data-toggle="modal" data-target="#portfolio_6">
+                                                      <div class="portfolio-item">
+                                                         <div class="details">
+                                                            <h4 class="title">Marketplace Website</h4>
+                                                            <span class="term">Laravel</span>
+                                                            <span class="term">Vue.js</span>
+                                                         </div>
+                                                         <span class="plus-icon">+</span>
+                                                         <div class="thumb">
+                                                            <noscript><img width="420" height="315" src="image/portfolio/portfolio-6.jpg" class="attachment-425x315 size-425x315 wp-post-image" sizes="(max-width: 420px) 100vw, 420px" /></noscript>
+                                                            <img width="420" height="315" src="image/portfolio/portfolio-6.jpg" class="attachment-425x315 size-425x315 wp-post-image ls-is-cached lazyloaded" data-sizes="(max-width: 420px) 100vw, 420px" sizes="(max-width: 420px) 100vw, 420px">
+                                                            <div class="mask"></div>
+                                                         </div>
+                                                      </div>
+                                                   </a>
+                                                </div>
                                              </div>
                                           </div>
                                        </div>
@@ -993,7 +1044,55 @@
                </div>
                <div class="modal-body">
                   <img src="image/portfolio/portfolio-3.jpg">
-                  <div class="mt-3"><strong>Technologies: </strong>Angular, Typescript, Material UI, Html5, CSS3, Javascript, SCSS</div>
+                  <div class="mt-3"><strong>Technologies: </strong>Angular, Typescript, RxJS, Material UI, Html5, CSS3, Javascript, SCSS</div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div class="modal fade" id="portfolio_4" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">Advertising Platform</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-4.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>Ruby on rails, Html5, CSS3, Javascript, jQuery, Chart.js, GreenSock, Bootstrap</div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div class="modal fade" id="portfolio_5" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">Healthcare Website</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-5.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>Node.js, Express, Postgresql, React, Redux, Html5, CSS3, Javascript, ES6, Lodash</div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div class="modal fade" id="portfolio_6" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title m-0">Marketplace Website</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <i class="fa fa-times" aria-hidden="true"></i>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <img src="image/portfolio/portfolio-5.jpg">
+                  <div class="mt-3"><strong>Technologies: </strong>PHP, Laravel, MySQL, Vue.js, Vuex, Html5, CSS3, SCSS, Javascript, Lodash</div>
                </div>
             </div>
             </div>
