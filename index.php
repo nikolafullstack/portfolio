@@ -199,7 +199,7 @@
                                                          <div class="elementor-element elementor-element-7c95bda elementor-widget__width-auto elementor-widget elementor-widget-bako-button" data-id="7c95bda" data-element_type="widget" data-widget_type="bako-button.default">
                                                             <div class="elementor-widget-container">
                                                                <a
-                                                                  href="https://drive.google.com/file/d/1K06dKQpTJS22qBSqA0QsM0g3ZNiQ9ct0/view?usp=sharing"
+                                                                  href="https://drive.google.com/file/d/186Dn0dwQhHP4FQ3HPv64qHcHQ3dXGwnt/view?usp=sharing"
                                                                   class="btn btn-default"
                                                                   download="nikola-cv.pdf"
                                                                   target="_blank"
@@ -625,28 +625,28 @@
                                                    <div class="title"> <span>2019 - 2020</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Full Stack Web Engineer</h4>
-                                                      <p>For US software development agency, I built saas web platform using Node.js and Angular.</p>
+                                                      <p>For software development agency, I helped several SaaS platforms development using Node.js and Angular.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2018 - 2019</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Full Stack Web Developer</h4>
-                                                      <p>I admired the global e-commerce platform development idea and using PHP and React, I contributed to the development.</p>
+                                                      <p>With an admiration of global commerce platform idea, I contributed to the market place e-commerce platform development using Yii and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2016 - 2018</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Lead Web Developer</h4>
-                                                      <p>On marketplace and social media development, I had worked and used various web technologies like Ruby on rails, Laravel, and Angular.</p>
+                                                      <h4 class="mt-0">Full Stack Web Developer</h4>
+                                                      <p>For rental e-commerce website, I created restful apis and implement beautiful user interfaces using Ruby on rails and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
-                                                   <div class="title"> <span>2014 - 2016</span></div>
+                                                   <div class="title"> <span>2014 - 2015</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Full Stack Web Developer</h4>
-                                                      <p>With deep team cooperation and high technologies, I tried to release top e-commerce website.</p>
+                                                      <h4 class="mt-0">Lead Web Developer</h4>
+                                                      <p>On marketplace and social media development, I had worked and used various web technologies like Ruby on rails, Laravel, and Angular.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
