@@ -624,29 +624,29 @@
                                                 <div class="entry">
                                                    <div class="title"> <span>2019 - 2020</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Full Stack Web Engineer</h4>
-                                                      <p>For software development agency, I helped several SaaS platforms development using Node.js and Angular.</p>
+                                                      <h4 class="mt-0">Lead Web Developer</h4>
+                                                      <p>For software development agency, I contributed to two SaaS platforms development using Node.js and Angular.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2018 - 2019</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Full Stack Web Developer</h4>
-                                                      <p>With an admiration of global commerce platform idea, I contributed to the market place e-commerce platform development using Yii and React.</p>
+                                                      <h4 class="mt-0">Full Stack Web Engineer</h4>
+                                                      <p>I wrote a microservice back-end code using Laravel and built a financial admin dashboard using Vue.js.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2016 - 2018</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Full Stack Web Developer</h4>
-                                                      <p>For rental e-commerce website, I created restful apis and implement beautiful user interfaces using Ruby on rails and React.</p>
+                                                      <p>With an admiration of global commerce platform idea, I contributed to the market place e-commerce platform development using Yii and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
-                                                   <div class="title"> <span>2014 - 2015</span></div>
+                                                   <div class="title"> <span>2014 - 2016</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Lead Web Developer</h4>
-                                                      <p>On marketplace and social media development, I had worked and used various web technologies like Ruby on rails, Laravel, and Angular.</p>
+                                                      <h4 class="mt-0">Senior Web Developer</h4>
+                                                      <p>For rental e-commerce website, I created restful apis and implement beautiful user interfaces using Ruby on rails and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
@@ -897,7 +897,18 @@
                                                 <div class="elementor-element elementor-element-3f4ccb2 elementor-column elementor-col-33 elementor-inner-column" data-id="3f4ccb2" data-element_type="column">
                                                    <div class="elementor-column-wrap  elementor-element-populated">
                                                       <div class="elementor-widget-wrap">
-                                                         <div class="elementor-element elementor-element-c5713f0 elementor-widget elementor-widget-spacer" data-id="c5713f0" data-element_type="widget" data-widget_type="spacer.default">
+                                                         <div class="elementor-element elementor-element-447fdff elementor-widget elementor-widget-bako-contact" data-id="447fdff" data-element_type="widget" data-widget_type="bako-contact.default">
+                                                            <div class="elementor-widget-container">
+                                                               <div class="contact-info">
+                                                                  <i class="icon-envelope"></i>
+                                                                  <div class="details">
+                                                                     <h5>Skype</h5>
+                                                                     <span>live:web.business815</span>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="elementor-element elementor-element-e7f3dd5 elementor-widget elementor-widget-spacer" data-id="e7f3dd5" data-element_type="widget" data-widget_type="spacer.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="elementor-spacer">
                                                                   <div class="elementor-spacer-inner"></div>
