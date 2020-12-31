@@ -199,7 +199,7 @@
                                                          <div class="elementor-element elementor-element-7c95bda elementor-widget__width-auto elementor-widget elementor-widget-bako-button" data-id="7c95bda" data-element_type="widget" data-widget_type="bako-button.default">
                                                             <div class="elementor-widget-container">
                                                                <a
-                                                                  href="https://drive.google.com/file/d/186Dn0dwQhHP4FQ3HPv64qHcHQ3dXGwnt/view?usp=sharing"
+                                                                  href="https://drive.google.com/file/d/1RM_1crUj1JYbBFSd-NLy6nZnu3hW8pDA/view?usp=sharing"
                                                                   class="btn btn-default"
                                                                   download="nikola-cv.pdf"
                                                                   target="_blank"
@@ -329,6 +329,26 @@
                                                             <div class="elementor-widget-container">
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
+                                                                     <h4 class="float-left mb-3 mt-0">Python / Django</h4>
+                                                                     <span class="float-right">85%</span>
+                                                                  </div>
+                                                                  <div class="progress">
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 85%;"></div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="elementor-element elementor-element-5ea9c25 elementor-widget elementor-widget-spacer" data-id="5ea9c25" data-element_type="widget" data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                               <div class="elementor-spacer">
+                                                                  <div class="elementor-spacer-inner"></div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="elementor-element elementor-element-8f71e07 elementor-widget elementor-widget-bako-skill" data-id="8f71e07" data-element_type="widget" data-widget_type="bako-skill.default">
+                                                            <div class="elementor-widget-container">
+                                                               <div class="skill-item">
+                                                                  <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Mysql / Postgresql</h4>
                                                                      <span class="float-right">80%</span>
                                                                   </div>
@@ -396,6 +416,26 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Javascript / jQuery</h4>
+                                                                     <span class="float-right">90%</span>
+                                                                  </div>
+                                                                  <div class="progress">
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" style="width: 90%;"></div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="elementor-element elementor-element-7a4459b elementor-widget elementor-widget-spacer" data-id="7a4459b" data-element_type="widget" data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                               <div class="elementor-spacer">
+                                                                  <div class="elementor-spacer-inner"></div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                         <div class="elementor-element elementor-element-a2ed665 elementor-widget elementor-widget-bako-skill" data-id="a2ed665" data-element_type="widget" data-widget_type="bako-skill.default">
+                                                            <div class="elementor-widget-container">
+                                                               <div class="skill-item">
+                                                                  <div class="skill-info clearfix">
+                                                                     <h4 class="float-left mb-3 mt-0">Bootstrap / Material UI</h4>
                                                                      <span class="float-right">90%</span>
                                                                   </div>
                                                                   <div class="progress">
