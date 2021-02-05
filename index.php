@@ -164,7 +164,7 @@
                                                          <div class="elementor-element elementor-element-9d2dba6 elementor-widget elementor-widget-text-editor" data-id="9d2dba6" data-element_type="widget" data-widget_type="text-editor.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="elementor-text-editor elementor-clearfix">
-                                                                  <p>I am Nikola Todorovski, full stack web developer from Skopje, North Macedonia. I have rich experience in web site design and building and customization, also I am good at devops.</p>
+                                                                  <p>I am Nikola Todorovski, full stack web developer from Skopje, North Macedonia. I learnt computer science at university and have been absorbed so far in web industry.</p>
                                                                </div>
                                                             </div>
                                                          </div>
@@ -199,7 +199,7 @@
                                                          <div class="elementor-element elementor-element-7c95bda elementor-widget__width-auto elementor-widget elementor-widget-bako-button" data-id="7c95bda" data-element_type="widget" data-widget_type="bako-button.default">
                                                             <div class="elementor-widget-container">
                                                                <a
-                                                                  href="https://drive.google.com/file/d/1RM_1crUj1JYbBFSd-NLy6nZnu3hW8pDA/view?usp=sharing"
+                                                                  href="https://drive.google.com/file/d/1_yxWcgrSsPFG5Wv0LKo38AxmFcvRh8I1/view?usp=sharing"
                                                                   class="btn btn-default"
                                                                   download="nikola-cv.pdf"
                                                                   target="_blank"
@@ -270,10 +270,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">PHP & Laravel & Yii</h4>
-                                                                     <span class="float-right">90%</span>
+                                                                     <span class="float-right">95%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" style="width: 90%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" style="width: 90%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -290,10 +290,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Ruby / Ruby on rails</h4>
-                                                                     <span class="float-right">80%</span>
+                                                                     <span class="float-right">85%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" style="width: 80%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 80%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -310,10 +310,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Node.js / Express</h4>
-                                                                     <span class="float-right">85%</span>
+                                                                     <span class="float-right">90%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 85%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" style="width: 85%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -330,10 +330,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Python / Django</h4>
-                                                                     <span class="float-right">85%</span>
+                                                                     <span class="float-right">75%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 85%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="75" style="width: 85%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -350,10 +350,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">Mysql / Postgresql</h4>
-                                                                     <span class="float-right">80%</span>
+                                                                     <span class="float-right">85%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" style="width: 80%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 80%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -370,10 +370,10 @@
                                                                <div class="skill-item">
                                                                   <div class="skill-info clearfix">
                                                                      <h4 class="float-left mb-3 mt-0">MongDB / Redis</h4>
-                                                                     <span class="float-right">75%</span>
+                                                                     <span class="float-right">80%</span>
                                                                   </div>
                                                                   <div class="progress">
-                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="75" style="width: 75%;"></div>
+                                                                     <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" style="width: 75%;"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -662,38 +662,45 @@
                                           <div class="elementor-widget-container">
                                              <div class="timeline">
                                                 <div class="entry">
+                                                   <div class="title"> <span>2020 - 2021</span></div>
+                                                   <div class="body">
+                                                      <h4 class="mt-0">Lead Web Developer</h4>
+                                                      <p>Rental platform development using Ruby on rails and Vue.js as well as 3rd party api integrations like the docusign.</p>
+                                                   </div>
+                                                </div>
+                                                <div class="entry">
                                                    <div class="title"> <span>2019 - 2020</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Lead Web Developer</h4>
-                                                      <p>For software development agency, I contributed to two SaaS platforms development using Node.js and Angular.</p>
+                                                      <p>SaaS platforms development from scratch using Node.js and Angular, and team cooperation.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2018 - 2019</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Full Stack Web Engineer</h4>
-                                                      <p>I wrote a microservice back-end code using Laravel and built a financial admin dashboard using Vue.js.</p>
+                                                      <h4 class="mt-0">Full Stack Web Developer</h4>
+                                                      <p>Microservice development using laravel for crowdinvesting web platform and building financial admin dashboard using Vue.js from scratch.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2016 - 2018</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Full Stack Web Developer</h4>
-                                                      <p>With an admiration of global commerce platform idea, I contributed to the market place e-commerce platform development using Yii and React.</p>
+                                                      <p>With an admiration of global commerce platform idea, the development of market place e-commerce platform using Yii and Bootstrap, and web apps using React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2014 - 2016</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Senior Web Developer</h4>
-                                                      <p>For rental e-commerce website, I created restful apis and implement beautiful user interfaces using Ruby on rails and React.</p>
+                                                      <p>Rental e-commerce website's CRUD update and user interface implementation using Ruby on rails and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
                                                    <div class="title"> <span>2012 - 2013</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Junior Web Developer</h4>
-                                                      <p>I learned technologies and development from senior developers and helped startup and maintenance build websites.</p>
+                                                      <p>Update and maintenance of web applications working with Senior developers.</p>
                                                    </div>
                                                 </div>
                                                 <span class="timeline-line"></span>
@@ -943,7 +950,7 @@
                                                                   <i class="icon-envelope"></i>
                                                                   <div class="details">
                                                                      <h5>Skype</h5>
-                                                                     <span>live:web.business815</span>
+                                                                     <span>live:.cid.5640bad570d945e1</span>
                                                                   </div>
                                                                </div>
                                                             </div>
