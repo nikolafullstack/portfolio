@@ -64,7 +64,7 @@
                      <li class="list-inline-item"> <a href="https://www.linkedin.com/in/nikola-todorovski-6100691b3" target="_blank"> <i class="fab fa-linkedin"></i> </a></li>
                      <li class="list-inline-item"> <a href="https://github.com/smartweber" target="_blank"> <i class="fab fa-github"></i> </a></li>
                   </ul>
-                  <span class="copyright"> © 2012 - 2020 Nikola Todorovski.</span>
+                  <span class="copyright"> © 2012 - 2021 Nikola Todorovski.</span>
                </div>
             </div>
          </header>
@@ -199,7 +199,7 @@
                                                          <div class="elementor-element elementor-element-7c95bda elementor-widget__width-auto elementor-widget elementor-widget-bako-button" data-id="7c95bda" data-element_type="widget" data-widget_type="bako-button.default">
                                                             <div class="elementor-widget-container">
                                                                <a
-                                                                  href="https://drive.google.com/file/d/1_yxWcgrSsPFG5Wv0LKo38AxmFcvRh8I1/view?usp=sharing"
+                                                                  href="https://drive.google.com/file/d/1MKz0Hs4PrwAXjz60nPtUQbkAuMMjGO-g/view?usp=sharing"
                                                                   class="btn btn-default"
                                                                   download="nikola-cv.pdf"
                                                                   target="_blank"
@@ -690,14 +690,14 @@
                                                    </div>
                                                 </div>
                                                 <div class="entry">
-                                                   <div class="title"> <span>2014 - 2016</span></div>
+                                                   <div class="title"> <span>2015 - 2016</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Senior Web Developer</h4>
                                                       <p>Rental e-commerce website's CRUD update and user interface implementation using Ruby on rails and React.</p>
                                                    </div>
                                                 </div>
                                                 <div class="entry">
-                                                   <div class="title"> <span>2012 - 2013</span></div>
+                                                   <div class="title"> <span>2012 - 2014</span></div>
                                                    <div class="body">
                                                       <h4 class="mt-0">Junior Web Developer</h4>
                                                       <p>Update and maintenance of web applications working with Senior developers.</p>
@@ -947,7 +947,7 @@
                                                          <div class="elementor-element elementor-element-447fdff elementor-widget elementor-widget-bako-contact" data-id="447fdff" data-element_type="widget" data-widget_type="bako-contact.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="contact-info">
-                                                                  <i class="icon-envelope"></i>
+                                                                  <i class="fab fa-skype"></i>
                                                                   <div class="details">
                                                                      <h5>Skype</h5>
                                                                      <span>live:.cid.5640bad570d945e1</span>
@@ -965,7 +965,7 @@
                                                          <div class="elementor-element elementor-element-447fdff elementor-widget elementor-widget-bako-contact" data-id="447fdff" data-element_type="widget" data-widget_type="bako-contact.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="contact-info">
-                                                                  <i class="icon-envelope"></i>
+                                                                  <i class="fas fa-envelope"></i>
                                                                   <div class="details">
                                                                      <h5>Email address</h5>
                                                                      <span>nikola.todor701@gmail.com</span>
@@ -983,7 +983,7 @@
                                                          <div class="elementor-element elementor-element-972adfd elementor-widget elementor-widget-bako-contact" data-id="972adfd" data-element_type="widget" data-widget_type="bako-contact.default">
                                                             <div class="elementor-widget-container">
                                                                <div class="contact-info">
-                                                                  <i class="icon-location-pin"></i>
+                                                                  <i class="fas fa-map-marker-alt"></i>
                                                                   <div class="details">
                                                                      <h5>Location</h5>
                                                                      <span>Skopje, North Macedonia</span>
