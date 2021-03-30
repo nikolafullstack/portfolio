@@ -199,7 +199,7 @@
                                                          <div class="elementor-element elementor-element-7c95bda elementor-widget__width-auto elementor-widget elementor-widget-bako-button" data-id="7c95bda" data-element_type="widget" data-widget_type="bako-button.default">
                                                             <div class="elementor-widget-container">
                                                                <a
-                                                                  href="https://drive.google.com/file/d/1MKz0Hs4PrwAXjz60nPtUQbkAuMMjGO-g/view?usp=sharing"
+                                                                  href="https://drive.google.com/file/d/1YyOmpp04V-LEyp_GUMFKUSjS_a55ZwvQ/view?usp=sharing"
                                                                   class="btn btn-default"
                                                                   download="nikola-cv.pdf"
                                                                   target="_blank"
@@ -664,7 +664,7 @@
                                                 <div class="entry">
                                                    <div class="title"> <span>2020 - 2021</span></div>
                                                    <div class="body">
-                                                      <h4 class="mt-0">Lead Web Developer</h4>
+                                                      <h4 class="mt-0">Tech Lead</h4>
                                                       <p>Rental platform development using Ruby on rails and Vue.js as well as 3rd party api integrations like the docusign.</p>
                                                    </div>
                                                 </div>
